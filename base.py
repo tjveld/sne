@@ -5,15 +5,13 @@
 import modules
 
 # Functions
-def spam():
-    ...
+def function1():
+    print("Default function")
 
-def blah():
-    ...
 
 # Main function
 def main(argv):
-    print("Default function")
+    function1()
 
 if __name__ == '__main__':
     import sys
