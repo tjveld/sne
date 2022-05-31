@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# prog.py
+# base.py
 
 # Import statements (libraries)
 # import modules
@@ -7,7 +7,6 @@
 # Functions
 def function1():
     print("Default function")
-
 
 # Main function
 def main(argv):
